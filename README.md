@@ -1,4 +1,4 @@
-Candidate Ranking and Classification System
+Candidate Ranking and Classification System :
 A full-stack web application built with Flask, MySQL, and JavaScript to streamline hiring decisions and manage candidate data efficiently.
 
 Features
